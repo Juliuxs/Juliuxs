@@ -7,11 +7,10 @@ I'm a Julius Grybauskas, Software Developer focusing on Golang and Node.js. <img
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on custom API solutions
-- 🌱 I’m currently learning microservices and golang
-- 👯 I’m looking to collaborate on projects with unique ideas
+- 🔭 I’m currently working on custom API solutions.
+- 🌱 I’m currently learning microservices and golang.
+- 👯 I’m looking to collaborate on projects with unique ideas.
 - 💬 Ask me about API architecture.
--->
 
 
 <h3>🚀 Some Tools I Use</h3>
