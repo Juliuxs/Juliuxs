@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a Julius Grybauskas, Software Developer focusing on Golang and Node.js. <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+I'm a Julius Grybauskas, Currently working as Mid Backend developer and focusing on Golang and Node.js. <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 <br />
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julius-grybauskas-181451172/)](https://www.linkedin.com/in/julius-grybauskas-181451172/)
